@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise'
 gem 'devise-bootstrap-views', '~> 1.0'
+# manage sort order
+gem 'acts_as_list', '~> 0.9.19'
